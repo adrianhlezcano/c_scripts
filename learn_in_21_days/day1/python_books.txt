@@ -1,0 +1,28 @@
+total 62892
+drwxr-xr-x 2 adrian adrian     4096 Jan 11 10:54 Addison.Wesley.Programming.in.Python.3.2nd.Edition.Nov.2009
+drwxr-xr-x 2 adrian adrian     4096 Jan 11 10:54 Addison.Wesley.Python.Essential.Reference.4th.Edition.Jul.2009
+-rw-r--r-- 1 adrian adrian 15268835 Feb  5 18:03 Addison.Wesley.Python.Web.Development.with.Django.Oct.2008.rar
+-rw-r--r-- 1 adrian adrian  6595162 Feb  7 15:38 Addison.Wesley.The.Python.Standard.Library.by.Example.Jun.2011.rar
+drwxr-xr-x 2 adrian adrian     4096 Jan 11 10:54 Apress.Foundations.of.Python.3.Network.Programming.2nd.Edition.Dec.2010
+drwxr-xr-x 2 adrian adrian     4096 Jan  4 01:00 Apress.Pro.Django.2nd.Edition.Jul.2013(1)
+drwxr-xr-x 2 adrian adrian     4096 Jan 11 10:54 Apress.Python.Algorithms.Nov.2010
+drwxr-xr-x 2 adrian adrian     4096 Jan 11 10:53 AWP.Python.in.Practice.Aug.2013
+-rw-r--r-- 1 adrian adrian  1536668 Feb  5 12:05 book_008.pdf
+-rw-r--r-- 1 adrian adrian  2723388 Mar 29 14:36 Daniel Greenfeld - Two Scoops of Django - 2013.pdf
+-rw-r--r-- 1 adrian adrian   782047 Feb 24 22:42 diveintopython-pdf-5.4(1).zip
+-rw-r--r-- 1 adrian adrian   782047 Feb  7 14:17 diveintopython-pdf-5.4.zip
+-rw-r--r-- 1 adrian adrian  4760015 Dec  9 18:31 django.pdf
+-rw-r--r-- 1 adrian adrian   487301 Feb  5 12:01 EffectiveDjango.pdf
+drwxr-xr-x 2 adrian adrian     4096 Apr  3 12:06 Oreilly.Programming.Google.App.Engine.2nd.Edition.Oct.2012
+-rw-r--r-- 1 adrian adrian 16729987 Feb 17 15:22 Oreilly.Programming.Google.App.Engine.2nd.Edition.Oct.2012.rar
+-rw-r--r-- 1 adrian adrian  3174947 Feb 17 12:20 Oreilly.Programming.Google.App.Engine.Nov.2009.rar
+drwxr-xr-x 2 adrian adrian     4096 Jan 11 10:54 Oreilly.Python.and.XML.Dec.2001
+-rw-r--r-- 1 adrian adrian  8162008 Feb  5 08:51 Packtpub.Python.2.6.Text.Processing.Beginners.Guide.Dec.2010.rar
+drwxr-xr-x 2 adrian adrian     4096 Jan 11 10:53 Packtpub.Python.3.Object.Oriented.Programming.Jul.2010
+drwxr-xr-x 2 adrian adrian     4096 Jan 11 10:55 Packtpub.Python.3.Web.Development.Beginners.Guide.May.2011
+drwxr-xr-x 2 adrian adrian     4096 Jan 11 10:55 PacktPub.Python.Geospatial.Development.2nd.Edition.May.2013
+drwxr-xr-x 2 adrian adrian     4096 Jan 11 10:54 Prentice.Hall.Core.Python.Applications.Programming.3rd.Edition.Mar.2012
+drwxr-xr-x 2 adrian adrian     4096 Feb  4 21:49 Prentice.Hall.Core.Python.Programming.2nd.Edition.Sep.2006
+-rw-r--r-- 1 adrian adrian    65656 Feb  6 14:46 PyMySQL-master.zip
+-rw-r--r-- 1 adrian adrian   835200 Feb  7 11:02 thinkpython.pdf
+-rw-r--r-- 1 adrian adrian  2419019 Feb  7 14:59 Tutorial.pdf

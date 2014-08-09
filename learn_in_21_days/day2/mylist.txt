@@ -1,0 +1,4 @@
+total 12
+-rw-r--r-- 1 adrian adrian  576 Apr 27 11:06 list_it.c
+-rwxr-xr-x 1 adrian adrian 7912 Apr 27 11:06 list_it.o
+-rw-r--r-- 1 adrian adrian    0 Apr 27 11:08 mylist.txt
