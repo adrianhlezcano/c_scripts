@@ -1,0 +1,6 @@
+
+1 Price value: 16.555000
+2 Price value: 12.555000
+3 Price value: 26.636360
+4 Price value: 36.352400
+5 Price value: 789.660000

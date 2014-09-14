@@ -1,0 +1,9 @@
+1. buy food
+2. buy drinks
+3. start coding in C
+4. drink 
+5. continue coding in C
+6. eat
+7. end coding in C
+8. sleep
+9. end

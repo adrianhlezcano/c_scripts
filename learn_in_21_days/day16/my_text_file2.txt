@@ -1,0 +1,6 @@
+1. Read a book about C programming language
+2. Put in practice what you learn
+3. Write a lot of code
+4. Write a firmware for a board
+5. be a genious...
+6. end of life()
